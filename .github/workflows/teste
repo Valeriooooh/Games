@@ -1,5 +1,0 @@
-#include <iostreamh>
-
-int main(){
-printf("Teste")
-}
